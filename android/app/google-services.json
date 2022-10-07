@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "414607489714",
+    "project_id": "karya-meet-point",
+    "storage_bucket": "karya-meet-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414607489714:android:4d2ac6c7173ce54cc3a7ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.karyameetpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414607489714-74n3tcmo4urvhbmop1at3lp08l1s94bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.karyameetpoint",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "414607489714-esleheadnplemc4esos4rov3pukt5rfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbTuFUj5xOci57H7eOLhhBWinBamaj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414607489714-esleheadnplemc4esos4rov3pukt5rfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414607489714-e1osq499lk6ucusfj2svnd8a4mghn2as.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.karyameetpoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

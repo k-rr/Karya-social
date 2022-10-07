@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>414607489714-e1osq499lk6ucusfj2svnd8a4mghn2as.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.414607489714-e1osq499lk6ucusfj2svnd8a4mghn2as</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>414607489714-74n3tcmo4urvhbmop1at3lp08l1s94bf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkQTo2p-tQTIWY8c_QpzTsS9v_ZojTMog</string>
+	<key>GCM_SENDER_ID</key>
+	<string>414607489714</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.karyameetpoint</string>
+	<key>PROJECT_ID</key>
+	<string>karya-meet-point</string>
+	<key>STORAGE_BUCKET</key>
+	<string>karya-meet-point.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:414607489714:ios:4fb8e658ab10fd81c3a7ab</string>
+</dict>
+</plist>
